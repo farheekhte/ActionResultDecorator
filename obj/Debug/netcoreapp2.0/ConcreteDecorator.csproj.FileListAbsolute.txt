@@ -8,3 +8,14 @@ H:\Sheikhnezami\Learning\ASP.net Core 2\Session 6\Session06.Decorator\ConcreteDe
 H:\Sheikhnezami\Learning\ASP.net Core 2\Session 6\Session06.Decorator\ConcreteDecorator\obj\Debug\netcoreapp2.0\ConcreteDecorator.AssemblyInfo.cs
 H:\Sheikhnezami\Learning\ASP.net Core 2\Session 6\Session06.Decorator\ConcreteDecorator\obj\Debug\netcoreapp2.0\ConcreteDecorator.dll
 H:\Sheikhnezami\Learning\ASP.net Core 2\Session 6\Session06.Decorator\ConcreteDecorator\obj\Debug\netcoreapp2.0\ConcreteDecorator.pdb
+C:\Users\Nezami\Documents\GitHub\ActionResultDecorator\bin\Debug\netcoreapp2.0\ConcreteDecorator.deps.json
+C:\Users\Nezami\Documents\GitHub\ActionResultDecorator\bin\Debug\netcoreapp2.0\ConcreteDecorator.runtimeconfig.json
+C:\Users\Nezami\Documents\GitHub\ActionResultDecorator\bin\Debug\netcoreapp2.0\ConcreteDecorator.runtimeconfig.dev.json
+C:\Users\Nezami\Documents\GitHub\ActionResultDecorator\bin\Debug\netcoreapp2.0\ConcreteDecorator.dll
+C:\Users\Nezami\Documents\GitHub\ActionResultDecorator\bin\Debug\netcoreapp2.0\ConcreteDecorator.pdb
+C:\Users\Nezami\Documents\GitHub\ActionResultDecorator\obj\Debug\netcoreapp2.0\ConcreteDecorator.csprojResolveAssemblyReference.cache
+C:\Users\Nezami\Documents\GitHub\ActionResultDecorator\obj\Debug\netcoreapp2.0\ConcreteDecorator.csproj.CoreCompileInputs.cache
+C:\Users\Nezami\Documents\GitHub\ActionResultDecorator\obj\Debug\netcoreapp2.0\ConcreteDecorator.AssemblyInfoInputs.cache
+C:\Users\Nezami\Documents\GitHub\ActionResultDecorator\obj\Debug\netcoreapp2.0\ConcreteDecorator.AssemblyInfo.cs
+C:\Users\Nezami\Documents\GitHub\ActionResultDecorator\obj\Debug\netcoreapp2.0\ConcreteDecorator.dll
+C:\Users\Nezami\Documents\GitHub\ActionResultDecorator\obj\Debug\netcoreapp2.0\ConcreteDecorator.pdb

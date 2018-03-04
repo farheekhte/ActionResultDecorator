@@ -31,6 +31,12 @@ namespace ConcreteDecorator
             app.UseStaticFiles();
             app.UseSession();
             app.UseMvcWithDefaultRoute();
+            app.UseMvc
+                 (
+                 route =>
+                 {
+                     route.MapRoute("Default", "{Controller=Default}/{Action=Index}");
+                 });
         }
     }
 }
