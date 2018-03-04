@@ -1,0 +1,42 @@
+﻿@{
+    var medes = TempData.GetAlert();
+
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <title>Index</title>
+</head>
+<body>
+
+
+    @if (medes.Count > 0)
+    {
+        <br />
+        <div class="container">
+            @foreach (var alert in medes)
+            {
+
+                <div class="@alert.Type alert-dismissible" role="alert">
+                    <a href="#" type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></a>
+                    <strong>@alert.Title </strong>  @alert.Body .
+                </div>
+
+
+            }
+        </div>
+    }
+    else
+    {
+        <h1 class="text-warning text-center">َNo Error</h1>
+    }
+    <a asp-action="Error" class="active" >Redirect With Error </a>
+</body>
+</html>
