@@ -13133,11 +13133,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "H:\\Sheikhnezami\\Learning\\ASP.net Core 2\\Session 6\\Session06.Decorator\\ConcreteDecorator\\ConcreteDecorator.csproj",
+      "projectUniqueName": "C:\\Users\\Nezami\\Documents\\GitHub\\ActionResultDecorator\\ConcreteDecorator.csproj",
       "projectName": "ConcreteDecorator",
-      "projectPath": "H:\\Sheikhnezami\\Learning\\ASP.net Core 2\\Session 6\\Session06.Decorator\\ConcreteDecorator\\ConcreteDecorator.csproj",
+      "projectPath": "C:\\Users\\Nezami\\Documents\\GitHub\\ActionResultDecorator\\ConcreteDecorator.csproj",
       "packagesPath": "C:\\Users\\Nezami\\.nuget\\packages\\",
-      "outputPath": "H:\\Sheikhnezami\\Learning\\ASP.net Core 2\\Session 6\\Session06.Decorator\\ConcreteDecorator\\obj\\",
+      "outputPath": "C:\\Users\\Nezami\\Documents\\GitHub\\ActionResultDecorator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
